@@ -1,0 +1,21 @@
+education_level,interests,technical_skills,soft_skills,personality,career_priority,recommended_career,recommended_course
+12th_science,Technology & Programming,Programming,Problem Solving,Analytical & Logical,High Salary,Software Engineer,B.Tech Computer Science
+12th_science_bio,Healthcare & Medicine,None,Empathy,Social & Empathetic,Social Impact,Doctor,MBBS
+12th_commerce,Business & Finance,Data Analysis,Analytical Thinking,Analytical & Logical,High Salary,Chartered Accountant,CA
+12th_arts,Art & Design,Graphic Design,Creativity,Creative & Artistic,Creative Freedom,UX/UI Designer,B.Des
+diploma_engineering,Engineering & Manufacturing,CAD,Problem Solving,Practical & Hands-on,Job Security,Mechanical Engineer,BE Mechanical
+10th_grade,Technology & Programming,Programming,Curiosity,Investigative & Curious,Continuous Learning,Software Engineer,Science Stream PCM
+undergraduate_cs,Technology & Programming,Programming,Analytical Thinking,Analytical & Logical,High Salary,Data Scientist,AI/ML Specialization
+postgraduate,Business & Finance,Data Analysis,Leadership,Analytical & Logical,High Salary,Product Manager,MBA
+12th_science,Science & Research,Data Analysis,Critical Thinking,Investigative & Curious,Continuous Learning,Data Scientist,B.Tech CS
+12th_commerce,Business & Finance,Digital Marketing,Communication,Social & Empathetic,Work-Life Balance,Digital Marketing Manager,BBA
+12th_arts,Media & Entertainment,Video Editing,Creativity,Creative & Artistic,Creative Freedom,Content Creator,Mass Communication
+diploma_other,Technology & Programming,Programming,Adaptability,Practical & Hands-on,Job Security,Software Engineer,BE Lateral Entry
+undergraduate_mech,Engineering & Manufacturing,CAD,Problem Solving,Practical & Hands-on,High Salary,Mechanical Engineer,M.Tech
+12th_science,Healthcare & Medicine,None,Empathy,Social & Empathetic,Social Impact,Nurse,BSc Nursing
+12th_commerce,Business & Finance,None,Communication,Social & Empathetic,Job Security,Investment Banker,B.Com
+12th_arts,Teaching & Education,None,Communication,Social & Empathetic,Social Impact,Teacher,BA Education
+undergraduate_cs,Technology & Programming,Web Development,Creativity,Creative & Artistic,Work-Life Balance,Frontend Developer,Full Stack Course
+12th_science,Technology & Programming,AI/ML Basics,Analytical Thinking,Analytical & Logical,Continuous Learning,AI Engineer,B.Tech AI/ML
+postgraduate,Technology & Programming,Data Analysis,Leadership,Analytical & Logical,High Salary,Data Scientist,MS Data Science
+10th_grade,Business & Finance,None,Communication,Social & Empathetic,Job Security,Accountant,Commerce Stream
