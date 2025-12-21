@@ -255,7 +255,7 @@ def add_floating_icon():
 with st.sidebar:
     # Logo section
     try:
-        st.image("logo.png", width=275)
+        st.image("Skillpath_AI/logo.png", width=275)
     except:
         # Fallback to emoji if image fails
         st.markdown("""
@@ -1051,4 +1051,5 @@ st.markdown("""
     <p>🎓 SkillPath AI | Empowering Students to Make Better Career Decisions</p>
     <p> Learn what it takes to face the world </p>
 </div>
+
 """, unsafe_allow_html=True)
