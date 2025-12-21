@@ -297,7 +297,7 @@ def show_home():
     import streamlit.components.v1 as components
     
     # List of banner images
-    banners = ["banner1.png", "banner2.png", "banner3.png"]
+    banners = ["Skillpath_AI/banner1.png", "Skillpath_AI/banner2.png", "Skillpath_AI/banner3.png"]
     
     # Check which banners exist and convert to base64
     available_banners = []
@@ -1053,3 +1053,4 @@ st.markdown("""
 </div>
 
 """, unsafe_allow_html=True)
+
